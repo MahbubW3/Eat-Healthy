@@ -1,20 +1,56 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+
+
 .quran{
     color: blue;
+    
 }
+
+
 .sec1{ display: flex;}
+
+
 .half{width: 50%;
 padding-left: 8%;}
+
+
 .half img{width: 80%;
 padding-right: 10%;}
+
+
 .link{text-decoration: none; 
     background-color: brown; 
-    padding: 10px 20px;
+    padding: 10px 40px;
     border-radius: 5px;
     color: aqua;
+   margin-top: 1000px;
+
 }
+.surah{font-style: italic;
+color: darkorange;}
+
+
 .sec1{
     background-image: url(images/shapes/50.jpg);
 }
+
+.sec2{
+    background-image: url(images/shapes/Group\ 8449.png)
+    
+    }
+
+ .sec2{display: flex;
+margin-bottom: 100px;}
+
+
+ .read{ color: rgb(241, 15, 45);}
+ .half{
+    width: 50%;
+    padding-left: 2%;
+    margin-top: 50px;
+ }
+ .bolt{ font-style: italic;
+color: blueviolet;}
+ 
